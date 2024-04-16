@@ -10,7 +10,7 @@ Convert between various currencies effortlessly. User-friendly interface for eas
 Usage
 
 Install dependencies: npm i rohi265_currency_converter
-Run the application: npx i rohi265_currency_converter
+Run the application: npx rohi265_currency_converter
 
 Contributing
 
