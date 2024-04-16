@@ -1,8 +1,5 @@
 # Project04_currency_converter
-
-Project04_currency_converter
 Currency Converter
-
 This project is a TypeScript-based currency converter application built to facilitate seamless currency conversion. Users can easily convert between different currencies using this application.
 
 Features
